@@ -1,5 +1,5 @@
 body {
-    background-color: #f50808;
+    background-color: #f8f8f8;
     font-family: Arial, sans-serif;
     color: #ec3ff1;
 }
@@ -62,9 +62,9 @@ button {
 }
 
 footer{
-  background-color: #7a4dcc;
+  background-color: #b99deca8;
   padding: 5%;
-  color: #a2d450;
+  color: #69aa01;
   text-align: center;
 }
 
